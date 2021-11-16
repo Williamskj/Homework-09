@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 function init () {
     const fs = require('fs')
     const inquirer = require('inquirer')
