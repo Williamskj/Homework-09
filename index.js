@@ -1,7 +1,7 @@
 function init () {
     const fs = require('fs')
     const inquirer = require('inquirer')
-    const generate = require('./utils/generateMarkdown.js');
+    const generate = require('./generateMarkdown.js');
     const path = require('path');
     inquirer.prompt([
             {
